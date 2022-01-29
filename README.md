@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3>Networks</h3>
+<a href="https://www.linkedin.com/in/florisbal" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com/florisbal" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+<a href="https://instagram.com/nflorisbal" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <!--
 **nflorisbal/nflorisbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
